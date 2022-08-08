@@ -7,7 +7,7 @@ Werkzeug
 numpy
 pandas
 seaborn
-matplotlib.pyplot
+matplotlib
 sklearn
 scipy
 scikit-learn
