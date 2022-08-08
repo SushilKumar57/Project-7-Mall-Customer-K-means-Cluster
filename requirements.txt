@@ -5,6 +5,10 @@ Jinja2
 MarkupSafe
 Werkzeug
 numpy
+pandas
+seaborn
+matplotlib.pyplot
+sklearn
 scipy
 scikit-learn
 matplotlib
